@@ -6,7 +6,7 @@
 
 [<img src="assets/img/tipping-point-logo.png" align="right" width="150">](https://github.com/687vex/687D-Robot-Code-2021-2022)
 
-Official robot code of VEX Robotics Team 687D for the 2022-2023 Season Spin Up
+Official robot code of VEX Robotics Team 687D for the 2022-2023 Season "Spin Up"
 
 ### Built With
 
