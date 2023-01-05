@@ -15,8 +15,8 @@ Official robot code of VEX Robotics Team 687D for the 2021-2022 Season
 -   Git
 -   R
 
-[contributors-shield]: https://img.shields.io/github/contributors/687vex/687D-Robot-Code-2021-2022.svg?style=for-the-badge
-[contributors-url]: https://github.com/687vex/687D-Robot-Code-2021-2022/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/687vex/687D-Robot-Code-2022-2023.svg?style=for-the-badge
+[contributors-url]: https://github.com/687vex/687D-Robot-Code-2022-2023/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/687vex/687D-Robot-Code-2021-2022.svg?style=for-the-badge
 [forks-url]: https://github.com/687vex/687D-Robot-Code-2021-2022/network/members
 [stars-shield]: https://img.shields.io/github/stars/687vex/687D-Robot-Code-2021-2022.svg?style=for-the-badge
